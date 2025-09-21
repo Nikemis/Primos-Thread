@@ -1,4 +1,4 @@
-#  Primos-Thread
+#  Primos com 100 Thread
 
 **Primos-Thread** é um projeto em C# que calcula números primos utilizando múltiplas threads, demonstrando como melhorar o desempenho de operações computacionais intensivas por meio de paralelismo.
 
